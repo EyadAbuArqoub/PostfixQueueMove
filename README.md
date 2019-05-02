@@ -1,8 +1,7 @@
 # Postfix Queue Move
 Switch Postfix mail queue between two servers if the mail server unable to send it’s queued emails.
 
-<p>Postfix Deferred Emails Movement</p>
-<p>Form Postfix Server to another Postfix Server</p>
+<p>Postfix deferred emails movement form Postfix server to another Postfix server</p>
 <p>Version: 1.0</p>
 <p>By: Eyad Abu arqoub</p>
 <p>Email: <a href="mailto:eyad-arqoub@live.com">eyad-arqoub@live.com</a></p>
