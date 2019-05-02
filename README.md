@@ -8,6 +8,7 @@ Switch Postfix mail queue between two servers if the mail server unable to send 
 <p>Date: Thursday, August 23, 2018</p>
 <p><u>Notes:</u></p>
 <ul>
+<li>I used in this code Python 2.7 version.</li>
 <li>You must be install paramiko Python library on local PC.</li>
 <li>You must be install "sshpass" on the remote Linux server.</li>
 <li>You must run a scp command for first time you use scp from local PC to remote PC, to do next scp automatically.</li>
