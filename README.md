@@ -1,5 +1,5 @@
 # Postfix Queue Move
-Switch Postfix and Sendmail mail queue between two servers if the mail server unable to send it’s queued emails.
+Switch Postfix mail queue between two servers if the mail server unable to send it’s queued emails.
 
 <p>Postfix Deferred Emails Movement</p>
 <p>Form Postfix Server to another Postfix Server</p>
