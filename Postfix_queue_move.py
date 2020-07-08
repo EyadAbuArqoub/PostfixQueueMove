@@ -65,10 +65,10 @@ def ssh_cmd(server_ip, ssh_port, user_name, password, cmd):
 # To Flush Emails in Mail Queue
 def flush_postfix():
 
-    server_ip = '82.212.85.200'
-    ssh_port = 22
-    user_name = 'root'
-    password = 'SweBupHub8'
+    server_ip = 'ip_here'
+    ssh_port = port
+    user_name = 'user_here'
+    password = 'password_here'
     cmd = '/usr/sbin/postqueue -c /etc/postfix -f'
     
     try:
