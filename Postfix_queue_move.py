@@ -120,7 +120,7 @@ def get_files(server_ip, ssh_port, user_name, password, remote_directory):
 # --------------------------------------------------------------------------------------------------------------------------------- #
 
 
-server_ssh_access = ['82.212.103.22', 22, 'root', 'x6wrA&re']
+server_ssh_access = ['ip_here', port_here, 'user_here', 'password_here']
 
 remote_server_path = "/var/spool/postfix/deferred/"
 
